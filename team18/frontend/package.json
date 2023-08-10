@@ -21,7 +21,7 @@
     "react-ace": "^9.5.0",
     "react-dom": "18.0.0",
     "react-feather": "^2.0.9",
-    "webpack": "^5.70.0"
+    "webpack": "^5.76.0"
   },
   "devDependencies": {
     "eslint": "8.12.0",
